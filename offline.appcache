@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1447043119
+#1447358291
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -18,6 +18,14 @@ images/watermeterbig-sheet0.png
 images/dropper-sheet0.png
 images/dropper-sheet1.png
 images/catcher-sheet0.png
+images/sprite2-sheet0.png
+images/sprite4-sheet0.png
+images/sprite5-sheet0.png
+images/sprite6-sheet0.png
+images/horizontalwheelvalve-sheet0.png
+images/verticalwheelvalve-sheet0.png
+images/applause-sheet0.png
+images/sprite7-sheet0.png
 media/kiyaaa.m4a
 media/kiyaaa.ogg
 media/shhhhih.m4a
@@ -28,12 +36,20 @@ media/hiyahaaa.m4a
 media/hiyahaaa.ogg
 media/hobadabs.m4a
 media/hobadabs.ogg
+media/large_metal_object_creak.m4a
+media/large_metal_object_creak.ogg
 media/water_drip.m4a
 media/water_drip.ogg
 media/clink_sound.m4a
 media/clink_sound.ogg
+media/applause.m4a
+media/applause.ogg
 media/lagjeu4export.m4a
 media/lagjeu4export.ogg
+media/hazardous.m4a
+media/hazardous.ogg
+media/deepness.m4a
+media/deepness.ogg
 icon-16.png
 icon-32.png
 icon-114.png
